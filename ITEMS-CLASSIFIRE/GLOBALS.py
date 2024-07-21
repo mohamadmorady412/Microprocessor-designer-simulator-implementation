@@ -1,0 +1,2 @@
+def PRINT():
+    return True
